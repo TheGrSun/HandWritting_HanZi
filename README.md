@@ -10,6 +10,10 @@ Chinese character handwriting animation generator with realistic stroke-by-strok
 |:---:|:---:|:---:|:---:|:---:|
 | ![一](./output/一.vector.svg) | ![永](./output/永.vector.svg) | ![中](./output/中.vector.svg) | ![爱](./output/爱.vector.svg) | ![把](./output/把.vector.svg) |
 
+| 龙 | 国 | 心 | 人 | 天 |
+|:---:|:---:|:---:|:---:|:---:|
+| ![龙](./output/龙.vector.svg) | ![国](./output/国.vector.svg) | ![心](./output/心.vector.svg) | ![人](./output/人.vector.svg) | ![天](./output/天.vector.svg) |
+
 > Open SVG files in browser to see animation effect.
 
 ## Features

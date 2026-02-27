@@ -40,6 +40,11 @@ output/*.svg
 !output/中.vector.svg
 !output/爱.vector.svg
 !output/把.vector.svg
+!output/龙.vector.svg
+!output/国.vector.svg
+!output/心.vector.svg
+!output/人.vector.svg
+!output/天.vector.svg
 
 # OS
 .DS_Store
